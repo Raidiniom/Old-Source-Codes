@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1711192647 source:c:\users\raidi\documents\school\usc\c source files\midtrmprac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gunstrinv.h"
+
+1711192622 c:\users\raidi\documents\school\usc\c source files\midtrmprac\gunstrinv.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
